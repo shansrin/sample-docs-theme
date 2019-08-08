@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shansrin.github.io/sample-docs-theme/mysite/categories/</loc>
+    <loc>https://shansrin.github.io/sample-docs-theme/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shansrin.github.io/sample-docs-theme/mysite/</loc>
+    <loc>https://shansrin.github.io/sample-docs-theme/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shansrin.github.io/sample-docs-theme/mysite/tags/</loc>
+    <loc>https://shansrin.github.io/sample-docs-theme/tags/</loc>
     <priority>0</priority>
   </url>
   
