@@ -3,3 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-techdoc"
 publishDir = "../docs"
+
+# Global menu section
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
