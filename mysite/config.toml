@@ -1,4 +1,4 @@
-baseURL = "https://shansrin.github.io/sample-docs-theme/"
+baseURL = "https://shansrin.github.io/sample-docs-theme/mysite"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-techdoc"
